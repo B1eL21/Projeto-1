@@ -1,0 +1,141 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav ul {
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    font-size: 20px;
+    background-color: #6eff95;
+    margin-top: 20px;
+    margin-right: 0%;
+    padding: 1px;
+    border-radius: 20px;
+}
+
+.navegação{
+    margin-top: 30px; 
+}
+
+.decoração{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.texto{
+    background-color: #c7ffe0;
+    border-radius: 20px;
+    margin: 25px;
+}
+
+.introdução{
+    text-align: center;
+    font-size: 25px;
+    padding: 50px;
+}
+
+.container{
+   display: flex;
+   justify-content: center;
+}
+
+img{
+    width: 700px;
+    border-radius: 20px;
+    margin-block-end: 40px;
+}
+
+section h2{
+    text-align: center;
+    padding: 20px;
+    margin-top: 100px;
+    margin-inline-start: 150px;
+    margin-inline-end: 150px;
+    border-radius: 10px;
+    background-color: #6eff95;
+    box-shadow: 60px -16px #c7ffe0;
+}
+
+.serviços{
+    margin: 20px;
+}
+
+
+main ul{
+    text-align: center;
+    list-style: none;
+    margin: 25px;
+    background-color: #c7ffe0;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+main ol{
+    background-color: #c7ffe0;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 25px;
+}
+
+.produtos{
+    text-align: center;
+    margin-block-start: 35px;
+    margin-block-end: 50px;
+    margin-inline-start: 25px;
+    font-size: 20px;
+    list-style: none;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.Avaliações{
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h3{
+    padding-top: 100px;
+    padding-inline-start: 70px;
+    font-size: 3ch;
+}
+
+.Avaliação{
+    background-color: #c7ffe0;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin: 25px;
+}
+
+.blog{
+    text-align: center;
+    background-color: #c7ffe0;
+    margin: 25px;
+    border-radius: 20px;
+    font-size: 25px;
+}
+
+.Blog{
+    margin: 50px;
+    margin-inline-start: 300px;
+    margin-inline-end: 300px;
+}
+
+.solução{
+    padding-block-end: 50px;
+}
+
+.rodapé{
+    text-align: center;
+    background-color: #6eff95;
+    padding: 5px;
+}
